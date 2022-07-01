@@ -10,3 +10,15 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+#timer div {
+    font-size: 50px;
+    font-weight: 700;
+    background-color: rgb(48, 47, 47);
+    color: white;
+    border-radius: 20%;
+    text-align: center;
+    padding: 0.2em 0.4em 0.2em 0.4em;
+    border: solid rgb(69, 69, 69);
+    border-width: 1px 3px 1px 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
